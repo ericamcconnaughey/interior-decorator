@@ -6,3 +6,15 @@ img {
   float: left;
   width: 20%;
 }
+
+.one {
+  background-color: darkslategray;
+}
+
+.two {
+  background-color: dimgrey;
+}
+
+.three {
+  background-color: grey;
+}
